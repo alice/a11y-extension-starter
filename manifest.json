@@ -28,6 +28,7 @@
   "manifest_version": 2,
   "web_accessible_resources": [
     "images/speech-16.png",
+    "images/speech-16.png",
     "images/speech-missing-alt-16.png",
     "images/statusbarButtonGlyphs.png"
   ]
